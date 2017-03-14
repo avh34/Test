@@ -1,4 +1,6 @@
 adding some turd to the sandwich:wq
 
-KERNEL_REV=1234
-META_REV=4321
+someother mergeable change
+
+KERNEL_REV=5432
+META_REV=4312
